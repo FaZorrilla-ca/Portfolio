@@ -1,32 +1,32 @@
 [
   {
     "id": "project-01",
-    "title": "Collectiv Gallery",
-    "description": "A center for innovative art, offering a dynamic space for both emerging and established artists.",
-    "thingsLearned": "Working on this project deepened my understanding of spatial storytelling and how digital interfaces can evoke the feeling of physical gallery spaces. I explored how negative space and typography weight can guide a viewer's eye just as lighting does in a real exhibition.",
-    "approach": "I started by visiting three local galleries and documenting their wayfinding systems. The design emerged from those observations — a restrained layout that lets the artwork breathe, with navigation that feels more like a gallery map than a website menu.",
-    "image": "images/image01.jpg",
-    "link": "https://example.com/collectiv",
-    "tags": ["UI Design", "Branding", "Web Development"]
+    "title": "Pocket Flock",
+    "description": "A cozy mobile game about birdwatching made in Unity with team Birdbrain for Buffalo Buffalo.",
+    "thingsLearned": "Working in a multidisciplinary team, working with Unity to build a mobile game, developing a game from concept to polished prototype.",
+    "approach": "I was the development lead for the project, so I designed most of the systems, while also contributing to the game design. We quickly iterated in an agile manner, while keeping a strict deadline for the prototype.",
+    "image": "images/pocket-flock.png",
+    "link": "https://www.thecdm.ca/projects/cozy-mobile-game-buffalo-buffalo",
+    "tags": ["Unity", "Mobile", "Game Development", "Game Design"]
   },
   {
     "id": "project-02",
-    "title": "Photography Archive",
-    "description": "An archival platform for documentary photographers to share and preserve their long-form visual essays.",
-    "thingsLearned": "This project taught me a great deal about image optimization pipelines and how to maintain color fidelity across different screen calibrations. I also learned how metadata-driven layouts can adapt gracefully without losing editorial control.",
-    "approach": "The core challenge was building a system flexible enough for hundreds of different photo series while keeping each one feeling individually curated. I developed a JSON schema that gives photographers control over pacing, sequencing, and text placement.",
-    "image": "images/image02.jpg",
-    "link": "https://example.com/photo-archive",
-    "tags": ["Photography", "Archive", "Editorial Design"]
+    "title": "Useless Vending Machine",
+    "description": "A solo game made in Unity for the Big Mode Game Jam 2026.",
+    "thingsLearned": "I participated on two game jams on two consecutive weekends. From this project I learned a lot about scope and time management, since I wanted to make game that was memorable. I focused on audio design to make it a fun and short experience.",
+    "approach": "I started by scoping my time and designing the core experience. I went with a smaller experience so that it could be the most polished possible within the 3 days that I had. I made all the audio with my mouth, which was a fun challenge, while also making all the mechanics work with minimal bugs.",
+    "image": "images/useless-vending-machine.png",
+    "link": "https://itch.io/jam/bigmode-game-jam-2026/rate/4270718",
+    "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Audio Design"]
   },
   {
     "id": "project-03",
-    "title": "Residency Program",
-    "description": "A six-week artist residency connecting practitioners across disciplines to collaborate on site-specific works.",
-    "thingsLearned": "Facilitating cross-disciplinary collaboration revealed how different creative fields have entirely different notions of process, deadline, and output. Designing systems that accommodate all of these required deep listening before any planning.",
-    "approach": "Rather than imposing a framework, I spent the first two weeks conducting interviews and mapping each artist's workflow. The resulting structure was built around what already existed, not what I assumed would work.",
-    "image": "images/image03.jpg",
-    "link": "https://example.com/residency",
-    "tags": ["Curation", "Community", "Installation"]
+    "title": "Neil-A's Big Halloween",
+    "description": "A Unity story driven game made in a team of 7 for the Global Game Jam 2026.",
+    "thingsLearned": "Working with a team that I just met and making a game in 3 days. We used Yarn, a dialogue system for Unity, which was a great fit for the game, since we had two writers, ending up with a lot of dialogue for a short game.",
+    "approach": "We started brainstorming around the theme of Mask, while also keeping our team's skills in mind. We ended up with a more narrative experience with a lot of dialogue, so after the main mechanics were done on the second day, we spent the rest of the time adding the dialogue to the game and polishing it.",
+    "image": "images/neil-a.png",
+    "link": "https://globalgamejam.org/games/2026/neil-big-halloween-9",
+    "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Story Driven"]
   }
 ]
