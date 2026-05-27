@@ -17,7 +17,7 @@
     "approach": "I started by scoping my time and designing the core experience. I went with a smaller experience so that it could be the most polished possible within the 3 days that I had. I made all the audio with my mouth, which was a fun challenge, while also making all the mechanics work with minimal bugs.",
     "image": "images/useless-vending-machine.png",
     "link": "https://itch.io/jam/bigmode-game-jam-2026/rate/4270718",
-    "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Audio Design"]
+    "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Audio Design", "Solo project"]
   },
   {
     "id": "project-03",
@@ -28,5 +28,15 @@
     "image": "images/neil-a.png",
     "link": "https://globalgamejam.org/games/2026/neil-big-halloween-9",
     "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Story Driven"]
+  },
+  {
+    "id": "project-04",
+    "title": "A Disadvantageous Adventure",
+    "description": "A solo incremental game made in Unity.",
+    "thingsLearned": "Scoping for personal projects while also studying full time. Make games work for mobile devices with save states.",
+    "approach": "I started with the need to test developing a mobile game, and when I scoped the project for 2 weeks I decided on this small experience with small interactions. Having the Dice roll in a more natural way was a big focus, since the upgrades need to work correctly with it.",
+    "image": "images/ADA.png",
+    "link": "https://yutzune.itch.io/a-disadvantageous-adventure",
+    "tags": ["Unity", "Game Development", "Game Design", "Incremental", "Solo project"]
   }
 ]

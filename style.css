@@ -443,10 +443,12 @@ a {
   }
 
   /* Content padding */
+  /*
   .main-content {
-    /* no left padding needed, no sidebar */
+    no left padding needed, no sidebar
   }
-
+  */
+  
   .page-body {
     padding: 24px 20px 40px;
   }

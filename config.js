@@ -10,7 +10,7 @@ const SITE_CONFIG = {
   name: 'Francisco Zorrilla',
 
   // The logo text top-left
-  logo: 'Francisco Zorrilla',
+  logo: 'Francisco',
 
   // Short bio shown in the top bar on the home page only
   // Keep this to one sentence or two short ones.
