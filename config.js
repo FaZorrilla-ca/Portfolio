@@ -7,17 +7,17 @@
 
 const SITE_CONFIG = {
   // Your name shown in <title> tags
-  name: 'Your Name',
+  name: 'Francisco Zorrilla',
 
   // The logo text top-left
-  logo: 'collectiv',
+  logo: 'Francisco Zorrilla',
 
   // Short bio shown in the top bar on the home page only
   // Keep this to one sentence or two short ones.
-  shortBio: 'Francisco is a designer and developer working at the intersection of art and technology.',
+  shortBio: 'Francisco is a game developer and designer based in Vancouver, Canada. Studied Operations Research and IT Engineering at Universidad Católica de Chile.',
 
   // Homepage tagline (the large text under "Projects" heading)
-  headline: 'A center for innovative art, offering a dynamic space for both emerging and established artists.',
+  headline: 'Game Development and Design Portfolio',
 
   // Navigation labels (and their hrefs)
   nav: [
