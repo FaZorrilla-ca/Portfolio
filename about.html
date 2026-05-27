@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About — Your Name</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- MOBILE NAV -->
+  <header class="mobile-nav">
+    <a href="index.html" class="logo">collectiv</a>
+    <nav>
+      <a href="index.html" id="mobile-nav-projects">Projects</a>
+      <a href="about.html" class="active" id="mobile-nav-about">About</a>
+      <a href="resume.html" id="mobile-nav-resume" style="color: var(--color-accent)">Tickets</a>
+    </nav>
+  </header>
+
+  <div class="site-wrapper">
+
+    <!-- SIDEBAR NAV -->
+    <aside class="sidebar">
+      <a href="index.html" class="logo">collectiv</a>
+      <nav>
+        <a href="index.html">Projects</a>
+        <a href="about.html" class="active">About</a>
+        <a href="resume.html">Resume</a>
+      </nav>
+    </aside>
+
+    <!-- MAIN CONTENT — no top-bar description here -->
+    <div class="main-content">
+      <div class="page-body">
+        <div id="about-content" class="markdown-content">
+          <p class="loading">Loading…</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+  <script>
+    renderMarkdownPage('about-content', 'pages/about.md');
+  </script>
+</body>
+</html>

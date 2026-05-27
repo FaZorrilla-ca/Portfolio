@@ -1,0 +1,32 @@
+[
+  {
+    "id": "project-01",
+    "title": "Collectiv Gallery",
+    "description": "A center for innovative art, offering a dynamic space for both emerging and established artists.",
+    "thingsLearned": "Working on this project deepened my understanding of spatial storytelling and how digital interfaces can evoke the feeling of physical gallery spaces. I explored how negative space and typography weight can guide a viewer's eye just as lighting does in a real exhibition.",
+    "approach": "I started by visiting three local galleries and documenting their wayfinding systems. The design emerged from those observations — a restrained layout that lets the artwork breathe, with navigation that feels more like a gallery map than a website menu.",
+    "image": "images/image01.jpg",
+    "link": "https://example.com/collectiv",
+    "tags": ["UI Design", "Branding", "Web Development"]
+  },
+  {
+    "id": "project-02",
+    "title": "Photography Archive",
+    "description": "An archival platform for documentary photographers to share and preserve their long-form visual essays.",
+    "thingsLearned": "This project taught me a great deal about image optimization pipelines and how to maintain color fidelity across different screen calibrations. I also learned how metadata-driven layouts can adapt gracefully without losing editorial control.",
+    "approach": "The core challenge was building a system flexible enough for hundreds of different photo series while keeping each one feeling individually curated. I developed a JSON schema that gives photographers control over pacing, sequencing, and text placement.",
+    "image": "images/image02.jpg",
+    "link": "https://example.com/photo-archive",
+    "tags": ["Photography", "Archive", "Editorial Design"]
+  },
+  {
+    "id": "project-03",
+    "title": "Residency Program",
+    "description": "A six-week artist residency connecting practitioners across disciplines to collaborate on site-specific works.",
+    "thingsLearned": "Facilitating cross-disciplinary collaboration revealed how different creative fields have entirely different notions of process, deadline, and output. Designing systems that accommodate all of these required deep listening before any planning.",
+    "approach": "Rather than imposing a framework, I spent the first two weeks conducting interviews and mapping each artist's workflow. The resulting structure was built around what already existed, not what I assumed would work.",
+    "image": "images/image03.jpg",
+    "link": "https://example.com/residency",
+    "tags": ["Curation", "Community", "Installation"]
+  }
+]

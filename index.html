@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name — Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- =============================================
+       MOBILE NAV (hidden on desktop via CSS)
+  ============================================== -->
+  <header class="mobile-nav">
+    <a href="index.html" class="logo">collectiv</a>
+    <nav>
+      <a href="index.html" class="active" id="mobile-nav-projects">Projects</a>
+      <a href="about.html" id="mobile-nav-about">About</a>
+      <a href="resume.html" id="mobile-nav-resume" style="color: var(--color-accent)">Tickets</a>
+    </nav>
+  </header>
+
+  <div class="site-wrapper">
+
+    <!-- =============================================
+         SIDEBAR NAV (hidden on mobile via CSS)
+    ============================================== -->
+    <aside class="sidebar">
+      <a href="index.html" class="logo">collectiv</a>
+      <nav>
+        <a href="index.html" class="active">Projects</a>
+        <a href="about.html">About</a>
+        <a href="resume.html">Resume</a>
+      </nav>
+    </aside>
+
+    <!-- =============================================
+         MAIN CONTENT
+    ============================================== -->
+    <div class="main-content">
+
+      <!-- Short bio — visible only on home page -->
+      <div class="top-bar" id="top-bar-description">
+        <!-- Filled by JS from config -->
+      </div>
+
+      <div class="page-body">
+        <p class="page-label">Projects</p>
+        <h1 class="page-headline" id="projects-headline">
+          <!-- Filled by JS from config -->
+        </h1>
+
+        <!-- Projects list rendered from JSON -->
+        <div id="projects-container">
+          <p class="loading">Loading projects…</p>
+        </div>
+      </div>
+
+    </div><!-- /.main-content -->
+  </div><!-- /.site-wrapper -->
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+  <script>
+    renderProjects();
+  </script>
+</body>
+</html>

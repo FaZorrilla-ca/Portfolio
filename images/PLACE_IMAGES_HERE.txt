@@ -1,0 +1,6 @@
+Place your project images here.
+
+Name them image01.jpg, image02.jpg, etc. and reference them in data/projects.json as:
+  "image": "images/image01.jpg"
+
+You can use any image format: jpg, png, webp, gif.
