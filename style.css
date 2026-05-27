@@ -171,8 +171,9 @@ a {
 
 .project-image {
   width: 100%;
-  aspect-ratio: 16/9;
-  object-fit: cover;
+  height: auto;
+  aspect-ratio: unset;
+  object-fit: contain;
   margin-bottom: 24px;
   background: var(--color-hover);
 }
