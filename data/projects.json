@@ -35,7 +35,7 @@
     "description": "An incremental game made in Unity, solo project.",
     "thingsLearned": "Scoping for personal projects while also studying full time. Make games work for mobile devices with save states.",
     "approach": "I started with the need to test developing a mobile game, and when I scoped the project for 2 weeks I decided on this small experience with small interactions. Having the Dice roll in a more natural way was a big focus, since the upgrades need to work correctly with it.",
-    "image": "images/ada.png",
+    "image": "images/ADA.png",
     "link": "https://yutzune.itch.io/a-disadvantageous-adventure",
     "tags": ["Unity", "Game Development", "Game Design", "Incremental", "Solo project"]
   },
