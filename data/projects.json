@@ -12,7 +12,7 @@
   {
     "id": "project-02",
     "title": "Useless Vending Machine",
-    "description": "A solo game made in Unity for the Big Mode Game Jam 2026.",
+    "description": "A game made in Unity for the Big Mode Game Jam 2026, solo project.",
     "thingsLearned": "I participated on two game jams on two consecutive weekends. From this project I learned a lot about scope and time management, since I wanted to make game that was memorable. I focused on audio design to make it a fun and short experience.",
     "approach": "I started by scoping my time and designing the core experience. I went with a smaller experience so that it could be the most polished possible within the 3 days that I had. I made all the audio with my mouth, which was a fun challenge, while also making all the mechanics work with minimal bugs.",
     "image": "images/useless-vending-machine.png",
@@ -32,11 +32,21 @@
   {
     "id": "project-04",
     "title": "A Disadvantageous Adventure",
-    "description": "A solo incremental game made in Unity.",
+    "description": "An incremental game made in Unity, solo project.",
     "thingsLearned": "Scoping for personal projects while also studying full time. Make games work for mobile devices with save states.",
     "approach": "I started with the need to test developing a mobile game, and when I scoped the project for 2 weeks I decided on this small experience with small interactions. Having the Dice roll in a more natural way was a big focus, since the upgrades need to work correctly with it.",
-    "image": "images/ADA.png",
+    "image": "images/ada.png",
     "link": "https://yutzune.itch.io/a-disadvantageous-adventure",
     "tags": ["Unity", "Game Development", "Game Design", "Incremental", "Solo project"]
+  },
+  {
+    "id": "project-05",
+    "title": "Final Stand",
+    "description": "A Blackjack versus AI game made in Unreal, solo project.",
+    "thingsLearned": "Implementing C++ in Unreal. UI and Bluprint development. Adding animations with simple timelines to make actions feel more engaging.",
+    "approach": "This game was made in 3 weeks for a course, in which I had to scope and decide which features to focus on. I focused more on the C++ logic to better understand how it works together in Blueprints.",
+    "image": "images/final-stand.png",
+    "link": "https://github.com/FaZorrilla-ca/FinalStand",
+    "tags": ["Unreal", "Game Development", "Game Design", "Solo project"]
   }
 ]
