@@ -1,4 +1,4 @@
-# Résumé
+# Resume
 
 ## Experience
 
