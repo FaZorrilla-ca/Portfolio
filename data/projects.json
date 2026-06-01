@@ -40,10 +40,20 @@
     "tags": ["Unity", "Game Development", "Game Design", "Incremental", "Solo project"]
   },
   {
+    "id": "project-06",
+    "title": "Meownshine Express Co.",
+    "description": "A simulation game made in Unity with a team of 6.",
+    "thingsLearned": "This was the first game I made, so I learned the process of designing a game, bringing it to life in Unity and working with a team.",
+    "approach": "Since this was for a class, we brainstormed ideas and came up with the concept and iterated on it. A prototype was made to test some mechanics and then full production for a final presentation. Learning Unity between Youtube videos, documentation and the help of AI was a great way to get this 3 month project done in an efficient way.",
+    "image": "images/meownshine-express.png",
+    "link": "https://yutzune.itch.io/meownshine-express-co",
+    "tags": ["Unity", "Game Development", "Game Design", "Simulation", "Team project"]
+  },
+  {
     "id": "project-05",
     "title": "Final Stand",
     "description": "A Blackjack versus AI game made in Unreal, solo project.",
-    "thingsLearned": "Implementing C++ in Unreal. UI and Bluprint development. Adding animations with simple timelines to make actions feel more engaging.",
+    "thingsLearned": "Implementing C++ in Unreal. UI and Bluprint development. Adding animations with simple timelines to make actions feel more engaging. Creating a simple AI for the opponent.",
     "approach": "This game was made in 3 weeks for a course, in which I had to scope and decide which features to focus on. I focused more on the C++ logic to better understand how it works together in Blueprints.",
     "image": "images/final-stand.png",
     "link": "https://github.com/FaZorrilla-ca/FinalStand",

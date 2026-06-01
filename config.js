@@ -14,7 +14,7 @@ const SITE_CONFIG = {
 
   // Short bio shown in the top bar on the home page only
   // Keep this to one sentence or two short ones.
-  shortBio: 'Francisco is a game developer and designer based in Vancouver, Canada. Studied Operations Research and IT Engineering at Universidad Católica de Chile.',
+  shortBio: 'I\'m a game developer and designer based in Vancouver, Canada. I studied Operations Research and IT Engineering at Universidad Católica de Chile.',
 
   // Homepage tagline (the large text under "Projects" heading)
   headline: 'Game Development and Design Portfolio',

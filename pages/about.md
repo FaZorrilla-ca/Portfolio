@@ -1,5 +1,9 @@
 # About
 
+### Vancouver, BC | fazorrilla98@gmail.com | 💼 https://www.linkedin.com/in/fazorrilla
+
+I'm a developer based in Vancouver, working 
+
 I'm a designer and developer based in Vancouver, working at the intersection of art, technology, and community. My practice focuses on building systems that feel human — interfaces that don't announce themselves, spaces that let the work speak.
 
 ## Background
