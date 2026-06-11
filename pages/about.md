@@ -1,16 +1,18 @@
 # About
 
-### Vancouver, BC | fazorrilla98@gmail.com | 💼 https://www.linkedin.com/in/fazorrilla
+### 📍 Vancouver, BC | ✉️ fazorrilla98@gmail.com | 💼  **[Linkedin](https://www.linkedin.com/in/fazorrilla)**
 
-I'm a developer based in Vancouver, working 
-
-I'm a designer and developer based in Vancouver, working at the intersection of art, technology, and community. My practice focuses on building systems that feel human — interfaces that don't announce themselves, spaces that let the work speak.
+I'm a developer based in Vancouver, Canada. I focus on bringing game visions to life and designing game mechanics that make them engaging. 
 
 ## Background
 
-I studied Fine Arts at the University of British Columbia before moving into digital design. That path shapes everything I make: I approach screens the way I approach a canvas, with attention to how composition, weight, and rhythm affect the person experiencing it.
+I studied engineering at Universidad Católica de Chile, where I focused on Operations Research and IT. I learned data analysis, how to code in multiple programming languages and being adaptable, becoming comfortable with new things and the unknown. On 2025 I also went through a course on Understanding Artificial Intelligence to further my knowledge on this emerging technology.
 
-For the past several years I've worked with cultural institutions, independent artists, and small studios on projects ranging from exhibition identity to digital archives to web platforms.
+I started working with my parents on our family business early on, now over 10 years helping them with quotations, client communication, product acquisition and logistics management on a minor scale. I have learned how to work with budgeting and reducing operational costs, while also implementing new software to optimize workflows.
+
+I worked almost 3 years in the finance sector as a financial analyst, where I managed high profile clients and transactions. I developed tools to optimize workflows and help others, while also creating and improving SQL queries to save time. I lead 4-7 people teams on prominent projects, where I learned to work as a team, covering each others weaknesses, and how to be adaptable in high paced and risk environments.
+
+
 
 ## What I Do
 
