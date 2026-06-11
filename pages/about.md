@@ -1,32 +1,34 @@
 # About
 
-### 📍 Vancouver, BC | ✉️ fazorrilla98@gmail.com | 💼  **[Linkedin](https://www.linkedin.com/in/fazorrilla)**
+### 📍 **Vancouver, BC** | ✉️ **Email**: fazorrilla98@gmail.com | 💼  **[LinkedIn](https://www.linkedin.com/in/fazorrilla)**
 
 I'm a developer based in Vancouver, Canada. I focus on bringing game visions to life and designing game mechanics that make them engaging. 
 
 ## Background
 
-I studied engineering at Universidad Católica de Chile, where I focused on Operations Research and IT. I learned data analysis, how to code in multiple programming languages and being adaptable, becoming comfortable with new things and the unknown. On 2025 I also went through a course on Understanding Artificial Intelligence to further my knowledge on this emerging technology.
+I studied engineering at Universidad Católica de Chile, where I focused on **Operations Research and IT**. I learned data analysis, how to code in multiple programming languages, and how to be adaptable, becoming comfortable with ambiguous technical challenges. Early 2025 I went through a course in **Understanding Artificial Intelligence** to stay ahead of the curve.
 
-I started working with my parents on our family business early on, now over 10 years helping them with quotations, client communication, product acquisition and logistics management on a minor scale. I have learned how to work with budgeting and reducing operational costs, while also implementing new software to optimize workflows.
+Early on, I started working with my parents in our family business. For **over a decade** I've helped them with quotations, client communication, product acquisition and logistics management on a minor scale. Through this, I learned how to work with **budgeting and reducing operational costs**, while also implementing new software to optimize workflows.
 
-I worked almost 3 years in the finance sector as a financial analyst, where I managed high profile clients and transactions. I developed tools to optimize workflows and help others, while also creating and improving SQL queries to save time. I lead 4-7 people teams on prominent projects, where I learned to work as a team, covering each others weaknesses, and how to be adaptable in high paced and risk environments.
+Later, I worked for **almost 3 years in the finance sector as a financial analyst**, where I managed high-profile clients and transactions. I developed tools to optimize workflows and help others, while also creating and improving **SQL queries** to save time. I **led teams of 4 to 7 people** on prominent projects, where I learned how to work in a team, covering each others weaknesses, and how to be adaptable in high-paced, high-risk environments.
 
-
+Alongside my career, my deep passion for gaming led me to start an active Instagram account for game reviews. I have posted every single week for **over 6 years**, analyzing most game genres and writing **over 450 reviews** to date. This hobby has helped me improve how I convey my thoughts on what I play, teaching me invaluable lessons about game structure, design, and consistency.
 
 ## What I Do
 
-- **Web Design & Development** — Building sites from concept to code, with particular attention to typography, motion, and responsiveness.
-- **Art Direction** — Visual strategy for projects that need a clear, consistent point of view.
-- **Digital Archiving** — Helping artists and organizations preserve and present work online.
-- **Curation** — Occasional exhibition and program development for independent spaces.
+- **Game Development & Design** - Building games from concept to code in **Unity and Unreal Engine**, with an emphasis on mechanics and interactions.
 
-## Collaborators
+- **Systems Design & Economy Balancing** - Using my background in **Operations Research and Finance** to design complex game systems and balance in-game economies or progression loops.
 
-I've worked with galleries, publishers, universities, and nonprofits. I prefer long-term collaborations where there's room to understand the work deeply before shaping how it's presented.
+- **Critical Game Analysis** - Drawing from my experience reviewing **450+ games** to deconstruct different genres, analyze what makes a game loop satisfying, and understand what players want.
+
+- **Team Leadership & Project Management** - Bringing my experience **leading teams** in high-stress finance environments to help keep game projects organized, on schedule, and collaborative.
 
 ## Get in Touch
 
-The best way to reach me is by email: **hello@yourname.com**
+I’m always open to discussing game design, technical challenges, or potential opportunities. Feel free to reach out!
 
-I'm always interested in hearing about projects that are trying to do something genuinely new.
+- ✉️ **Email**: fazorrilla98@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/fazorrilla
+- 📸 **Instagram**: https://www.instagram.com/fzgamereviews/ - *Read my weekly bite sized game reviews!*
+- 🕹️ **Itch.io**: https://yutzune.itch.io - *Play my prototypes and game jam projects here!*
