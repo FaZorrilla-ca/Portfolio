@@ -80,9 +80,12 @@ function buildProjectEntry(project) {
     imageHtml = `<div class="project-image-placeholder">No image</div>`;
   }
 
-  // Tags
+  // Tags — each tag also gets a slug class (e.g. "Game Design" -> "tag-game-design")
   const tagsHtml = (project.tags || [])
-    .map(tag => `<span class="project-tag">${escapeHtml(tag)}</span>`)
+    .map(tag => {
+      const slug = tag.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+      return `<span class="project-tag tag-${slug}">${escapeHtml(tag)}</span>`;
+    })
     .join('');
 
   // Details (two-column: learned + approach)
@@ -109,13 +112,13 @@ function buildProjectEntry(project) {
   // Link
   const linkHtml = project.link
     ? `<a class="project-link" href="${escapeHtml(project.link)}" target="_blank" rel="noopener">
-        View project
+        ${escapeHtml(project.linkText || 'View project')}
        </a>`
     : '';
 
   article.innerHTML = `
-    ${imageHtml}
     <h2 class="project-title">${escapeHtml(project.title)}</h2>
+    ${imageHtml}
     <p class="project-description">${escapeHtml(project.description)}</p>
     <div class="project-tags">${tagsHtml}</div>
     ${detailsHtml}

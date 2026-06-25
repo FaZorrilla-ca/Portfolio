@@ -7,7 +7,8 @@
     "approach": "I was the development lead for the project, so I designed most of the systems, while also contributing to the game design. We quickly iterated in an agile manner, while keeping a strict deadline for the prototype.",
     "image": "images/pocket-flock.png",
     "link": "https://www.thecdm.ca/projects/cozy-mobile-game-buffalo-buffalo",
-    "tags": ["Unity", "Mobile", "Game Development", "Game Design"]
+    "linkText": "View on the CDM page",
+    "tags": ["Unity", "Mobile", "Game Development", "Game Design", "Team Project"]
   },
   {
     "id": "project-02",
@@ -17,6 +18,7 @@
     "approach": "I started by scoping my time and designing the core experience. I went with a smaller experience so that it could be the most polished possible within the 3 days that I had. I made all the audio with my mouth, which was a fun challenge, while also making all the mechanics work with minimal bugs.",
     "image": "images/useless-vending-machine.png",
     "link": "https://itch.io/jam/bigmode-game-jam-2026/rate/4270718",
+    "linkText": "Play on itch.io",
     "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Audio Design", "Solo project"]
   },
   {
@@ -27,7 +29,8 @@
     "approach": "We started brainstorming around the theme of Mask, while also keeping our team's skills in mind. We ended up with a more narrative experience with a lot of dialogue, so after the main mechanics were done on the second day, we spent the rest of the time adding the dialogue to the game and polishing it.",
     "image": "images/neil-a.png",
     "link": "https://globalgamejam.org/games/2026/neil-big-halloween-9",
-    "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Story Driven"]
+    "linkText": "View on the Global Game Jam page",
+    "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Story Driven", "Team Project"]
   },
   {
     "id": "project-04",
@@ -37,6 +40,7 @@
     "approach": "I started with the need to test developing a mobile game, and when I scoped the project for 2 weeks I decided on this small experience with small interactions. Having the Dice roll in a more natural way was a big focus, since the upgrades need to work correctly with it.",
     "image": "images/ADA.png",
     "link": "https://yutzune.itch.io/a-disadvantageous-adventure",
+    "linkText": "Play on itch.io",
     "tags": ["Unity", "Game Development", "Game Design", "Incremental", "Solo project"]
   },
   {
@@ -47,16 +51,18 @@
     "approach": "Since this was for a class, we brainstormed ideas and came up with the concept and iterated on it. A prototype was made to test some mechanics and then full production for a final presentation. Learning Unity between Youtube videos, documentation and the help of AI was a great way to get this 3 month project done in an efficient way.",
     "image": "images/meownshine-express.png",
     "link": "https://yutzune.itch.io/meownshine-express-co",
-    "tags": ["Unity", "Game Development", "Game Design", "Simulation", "Team project"]
+    "linkText": "Play on itch.io",
+    "tags": ["Unity", "Game Development", "Game Design", "Simulation", "Team Project"]
   },
   {
     "id": "project-05",
     "title": "Final Stand",
-    "description": "A Blackjack versus AI game made in Unreal, solo project.",
-    "thingsLearned": "Implementing C++ in Unreal. UI and Bluprint development. Adding animations with simple timelines to make actions feel more engaging. Creating a simple AI for the opponent.",
+    "description": "A Blackjack versus AI game made in Unreal, solo project for a course.",
+    "thingsLearned": "Implementing C++ in Unreal. UI and Blueprint development. Adding animations with simple timelines to make actions feel more engaging. Creating a simple AI for the opponent.",
     "approach": "This game was made in 3 weeks for a course, in which I had to scope and decide which features to focus on. I focused more on the C++ logic to better understand how it works together in Blueprints.",
     "image": "images/final-stand.png",
     "link": "https://github.com/FaZorrilla-ca/FinalStand",
+    "linkText": "View the GitHub repository",
     "tags": ["Unreal", "Game Development", "Game Design", "Solo project"]
   }
 ]
