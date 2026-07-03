@@ -6,7 +6,7 @@ const SITE_CONFIG = {
   logo: 'Francisco',
 
   // Short bio shown in the top bar on the home page only
-  shortBio: 'I\'m a game developer and designer currently studying at the Centre for Digital Media, based in Vancouver, Canada. I studied Operations Research and IT Engineering at Universidad Católica de Chile',
+  shortBio: 'I\'m a game developer and game designer currently studying at the Centre for Digital Media, based in Vancouver, Canada. I studied Operations Research and IT Engineering at Universidad Católica de Chile',
 
   // Homepage tagline (the large text under "Projects" heading)
   headline: 'Game Development and Design Portfolio',
