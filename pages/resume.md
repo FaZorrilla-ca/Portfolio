@@ -1,58 +1,62 @@
 # Resume
+# FRANCISCO ZORRILLA
 
-## Experience
+### **Software Engineer & Game Developer**
+685 Great Northern Way, Vancouver, V5T 0C6
 
-### Senior Designer — Studio Name
-*2022 – Present · Vancouver, BC*
+fazorrilla98@gmail.com | [LinkedIn](https://www.linkedin.com/in/fazorrilla) | [Portfolio](https://fazorrilla-ca.github.io/Portfolio/index.html)
 
-Leading design across digital and print projects for cultural clients. Responsibilities include creative direction, client communication, and front-end development for web projects.
+## SUMMARY
+Software engineer and Master of Digital Media student with a strong background in Systems Engineering and Information Technology. Combines over 10 years of experience designing custom data-driven automation tools with focused expertise in modern gameplay programming. A collaborative team member who thrives in multidisciplinary environments, with a proven ability to lead small teams and quickly adapt to new programming environments and unknown technical challenges.
 
-### Designer — Agency Name
-*2019 – 2022 · Vancouver, BC*
+## CORE SKILLS
+Unity Engine || C# || Node.js || JavaScript || C++ || Unreal Engine || Blueprints || Java (Beginner) || UI/UX Implementation || Git/GitHub Source Control || Agile / Kanban || Multidisciplinary Collaboration || Team Leadership
 
-Designed brand identities, editorial systems, and digital experiences for a mix of arts organizations, nonprofits, and technology clients.
+## EXPERIENCE
 
-### Junior Designer — Freelance
-*2017 – 2019 · Vancouver, BC*
+### **Game Developer | Centre for Digital Media Project**
+**Bumigumi | Bumigumi: Magic Trails | 2026**
+- Developed a mobile AR narrative game, successfully preparing a highly functional prototype used for fundraising demonstrations.
+- Trained and integrated custom AI image recognition models and MediaPipe systems to drive real-time, vision-based interactive gameplay.
+- Managed the project repository using GitHub source control to ensure clean codebase versioning, while maintaining clear technical documentation for system architectures and feature updates.
 
-Independent practice focused on small cultural institutions and individual artists. Projects included exhibition catalogues, websites, and visual identities.
+### **Game Developer | Centre for Digital Media Project**
+**Buffalo Buffalo | Pocket Flock | 2026**
+- Led the development team to build a technical proof-of-concept for a cozy idle mobile title, establishing the underlying system architecture and gameplay logic.
+- Designed and engineered dynamic gameplay mechanics and responsive UI layouts, ensuring a highly polished vertical slice that received stakeholder approval for full-scale development.
+- Controlled the codebase structure via GitHub, aligning art pipelines and scripts using Kanban, while delivering concise documentation to ensure clean handoffs for future full-scale development.
 
----
+### **Financial Operations Analyst | Cooperativa de Ahorro y Crédito Coopeuch (Chile, ~2,000 employees)** 
+**2022 – 2025**
+- Led cross-functional teams of 4–7 people on high-profile digital transformation and process optimization projects within a fast-paced environment.
+- Designed data analysis workflows applying SQL, Python, and Excel, building automated tools that reduced manual reporting time by over 30%.
+- Implemented systematic validation methods within internal digitization workflows, directly cutting user operational errors by more than 25%.
+- Stepped up consistently to cover team member responsibilities and manage high-profile client relations, keeping operational pipelines running smoothly under pressure.
 
-## Education
+### **Logistics and Sales Advisor | Importadora y Exportadora Corella Ltda. (Chile, Family Business)**
+**2017 – Present**
+- Sourced and co-designed didactic, educational toys from international suppliers, successfully modernizing the product catalog and expanding global supplier networks.
+- Integrated modern operations and inventory software across the business, reducing structural overhead, managing budgets, and optimizing delivery logistics.
 
-### Bachelor of Fine Arts — University of British Columbia
-*2013 – 2017 · Major in Visual Art, Minor in Computer Science*
+### **Warehouse Assistant (Internship) | Jumbo SA. (Chile, ~16,000 employees)**
+**2016**
+- Coordinated closely with the warehouse team to manage loading dock logistics, optimizing tight physical storage spaces during peak December holiday rush conditions.
 
----
+## EDUCATION
 
-## Skills
+### **Masters in Digital Media | Centre for Digital Media | To graduate December 2026**
+**UBC | SFU | BCIT | Emily Carr**
 
-**Design** — Visual identity, editorial design, exhibition design, art direction, typography, motion graphics
+**Available to work full time, Co-op, or Internship starting September 2026.**
 
-**Development** — HTML, CSS, JavaScript, React, Git, static site development, accessibility
+### **Bachelor's Degree in Operations Research with a Diploma in IT | Pontificia Universidad Católica de Chile | 2016 - 2023**
+Project Evaluation, Data Analysis and technical adaptability proven by rapidly learning multiple distinct programming languages.
+**Notable Projects:**
+- **IT Capstone:** Served as Mobile Team Lead for a pet owner social media app prototype built using React and Node.js. Managed tasks and milestones using Agile/Kanban methodologies.
+- **Project Evaluation:** Served as Team Lead on a comprehensive market analysis and systems evaluation for a Warehouse Management System (WMS) tailored for Seigard Chile S.A.
+- **Systems Integration Workshop:** Programmed a networked backend system using Node.js to trade digital assets in real time, participating in peer code reviews and peer-programming to ensure codebase standards and optimization.
 
-**Tools** — Figma, Adobe Creative Suite, VS Code
+### **Diploma in Understanding Artificial Intelligence | Universidad Adolfo Ibañez | 2025**
 
-**Languages** — English (native), Spanish (conversational)
-
----
-
-## Selected Clients
-
-- Vancouver Art Gallery
-- Contemporary Art Society
-- Various independent artists and studios
-- Local nonprofit organizations
-
----
-
-## Awards & Recognition
-
-- Design Canada Award — 2023
-- Applied Arts Award — Digital Design — 2021
-- Grafika Award — Editorial — 2020
-
----
-
-*References available upon request. Full portfolio at [yourname.com](https://yourname.com)*
+## ADDITIONAL SKILLS
+Python || SQL || Scriptable Objects || Object-Oriented Programming (OOP) || Gameplay Scripting || Debugging & Optimization || Mobile Game Design || React / React Native || Ruby on Rails || R || HTML/CSS || Windows || Linux || MacOS || Microsoft Excel (Advanced Data Analysis) || Google Drive Suite || Canva || Adaptability || Comfortable with the Unknown || Spanish (Native) || English (Advanced, TOEFL: 112) || **Interests**: Writing reviews on games that I’ve played, with over 450 written to this date on my Instagram page.

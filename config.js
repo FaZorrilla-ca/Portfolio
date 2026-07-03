@@ -1,20 +1,12 @@
-/**
- * config.js — Site-wide configuration
- * =====================================
- * Edit this file to update your site's identity,
- * navigation labels, and homepage text.
- */
-
 const SITE_CONFIG = {
-  // Your name shown in <title> tags
+  // Name in title tags
   name: 'Francisco Zorrilla',
 
-  // The logo text top-left
+  // The text top-left
   logo: 'Francisco',
 
   // Short bio shown in the top bar on the home page only
-  // Keep this to one sentence or two short ones.
-  shortBio: 'I\'m a game developer and designer based in Vancouver, Canada. I studied Operations Research and IT Engineering at Universidad Católica de Chile.',
+  shortBio: 'I\'m a game developer and designer currently studying at the Centre for Digital Media, based in Vancouver, Canada. I studied Operations Research and IT Engineering at Universidad Católica de Chile',
 
   // Homepage tagline (the large text under "Projects" heading)
   headline: 'Game Development and Design Portfolio',

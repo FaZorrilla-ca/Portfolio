@@ -151,7 +151,7 @@ a {
 
 .page-headline {
   font-family: var(--font-display);
-  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  font-size: clamp(1.4rem, 3vw, 1.8rem);
   font-weight: 800;
   line-height: 1.25;
   letter-spacing: -0.02em;
@@ -195,7 +195,7 @@ a {
 
 .project-title {
   font-family: var(--font-display);
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 800;
   letter-spacing: -0.02em;
   margin-bottom: 8px;
@@ -227,18 +227,28 @@ a {
 }
 
 /* Tag colorsAny tag without a rule keeps the default grey. */
+/* Core Engine Tags (Solid Backgrounds) */
 .tag-unity            { color: #fff; background: #222; border-color: #222; }
 .tag-unreal           { color: #fff; background: #0e1128; border-color: #0e1128; }
+
+/* Platform Tags (Solid Backgrounds) */
+.tag-mobile           { color: #fff; background: #007acc; border-color: #007acc; }
+.tag-desktop          { color: #fff; background: #455a64; border-color: #455a64; }
+
+/* Higher-Level Category Tags (Clean Outlines) */
 .tag-game-design      { color: #1a47c8; border-color: #1a47c8; }
 .tag-game-development { color: #2e7d32; border-color: #2e7d32; }
+.tag-game-jam         { color: #d84315; border-color: #d84315; }
+
+/* Project Scale Tags (Clean Outlines) */
 .tag-solo-project     { color: #b8860b; border-color: #b8860b; }
 .tag-team-project     { color: #8e24aa; border-color: #8e24aa; }
-.tag-game-jam         { color: #d84315; border-color: #d84315; }
-.tag-mobile           { color: #fff; background: #222; border-color: #222; }
-.tag-audio-design     { color: #fff; background: #222; border-color: #222; }
-.tag-story-driven     { color: #fff; background: #222; border-color: #222; }
-.tag-incremental      { color: #fff; background: #222; border-color: #222; }
-.tag-simulation       { color: #fff; background: #222; border-color: #222; }
+
+/* Sub-Disciplines & Specific Genres (Clean Outlines) */
+.tag-audio-design     { color: #e65100; border-color: #e65100; }
+.tag-story-driven     { color: #b71c1c; border-color: #b71c1c; }
+.tag-incremental      { color: #004d40; border-color: #004d40; }
+.tag-simulation       { color: #37474f; border-color: #37474f; }
 
 
 /* Project expanded details */
@@ -331,7 +341,7 @@ a {
 
 .markdown-content h2 {
   font-family: var(--font-display);
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   font-weight: 400;
   letter-spacing: -0.01em;
   margin-top: 40px;
@@ -341,7 +351,7 @@ a {
 }
 
 .markdown-content h3 {
-  font-size: 0.88rem;
+  font-size: 1.15rem;
   font-weight: 500;
   margin-top: 28px;
   margin-bottom: 4px;
@@ -385,6 +395,12 @@ a {
 
 .markdown-content a:hover {
   border-bottom-color: var(--color-accent);
+}
+
+@media (min-width: 800px) {
+  .markdown-content {
+    max-width: 100%;
+  }
 }
 
 /* ============================================

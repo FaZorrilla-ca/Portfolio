@@ -2,7 +2,7 @@
 
 ### 📍 **Vancouver, BC** | ✉️ **Email**: fazorrilla98@gmail.com | 💼  **[LinkedIn](https://www.linkedin.com/in/fazorrilla)**
 
-I'm a developer based in Vancouver, Canada. I focus on bringing game visions to life and designing game mechanics that make them engaging. 
+I'm a developer currently studying and based in Vancouver, Canada. I focus on bringing game visions to life and designing game mechanics that make them engaging. 
 
 ## Background
 
@@ -16,7 +16,7 @@ Alongside my career, my deep passion for gaming led me to start an active Instag
 
 ## What I Do
 
-- **Game Development & Design** - Building games from concept to code in **Unity and Unreal Engine**, with an emphasis on mechanics and interactions.
+- **Game Development & Design** - Building games from concept to code in **Unity and Unreal Engine**, with an emphasis on mechanics and UI/UX implementation.
 
 - **Systems Design & Economy Balancing** - Using my background in **Operations Research and Finance** to design complex game systems and balance in-game economies or progression loops.
 
@@ -29,6 +29,6 @@ Alongside my career, my deep passion for gaming led me to start an active Instag
 I’m always open to discussing game design, technical challenges, or potential opportunities. Feel free to reach out!
 
 - ✉️ **Email**: fazorrilla98@gmail.com
-- 💼 **LinkedIn**: https://www.linkedin.com/in/fazorrilla
-- 📸 **Instagram**: https://www.instagram.com/fzgamereviews/ - *Read my weekly bite sized game reviews!*
-- 🕹️ **Itch.io**: https://yutzune.itch.io - *Play my prototypes and game jam projects here!*
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/fazorrilla)
+- 📸 [**Instagram Reviews**](https://www.instagram.com/fzgamereviews/) - *Read my weekly bite sized game reviews!*
+- 🕹️ [**Itch.io**](https://yutzune.itch.io) - *Play my prototypes and game jam projects here!*

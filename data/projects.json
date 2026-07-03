@@ -1,10 +1,10 @@
 [
   {
     "id": "project-01",
-    "title": "Pocket Flock",
-    "description": "A cozy mobile game about birdwatching made in Unity with team Birdbrain for Buffalo Buffalo.",
-    "thingsLearned": "Working in a multidisciplinary team, working with Unity to build a mobile game, developing a game from concept to polished prototype.",
-    "approach": "I was the development lead for the project, so I designed most of the systems, while also contributing to the game design. We quickly iterated in an agile manner, while keeping a strict deadline for the prototype.",
+    "title": "Pocket Flock - Centre for Digital Media project - Buffalo Buffalo",
+    "description": "A cozy mobile game about birdwatching made in Unity with team Birdbrain as a Centre for Digital Media project for Buffalo Buffalo.",
+    "thingsLearned": "Working in a multidisciplinary team and building a complex mobile game using Unity. Developing a game from concept to polished prototype.",
+    "approach": "I was the development lead for the project, so I designed most of the core systems and architecture, while also contributing to the game design. We quickly iterated in an agile manner using Kanban to manage our art and programming pipelines, while keeping a strict deadline for the prototype.",
     "image": "images/pocket-flock.png",
     "link": "https://www.thecdm.ca/projects/cozy-mobile-game-buffalo-buffalo",
     "linkText": "View on the CDM page",
@@ -12,57 +12,57 @@
   },
   {
     "id": "project-02",
-    "title": "Useless Vending Machine",
+    "title": "Useless Vending Machine - Big Mode Game Jam 2026",
     "description": "A game made in Unity for the Big Mode Game Jam 2026, solo project.",
-    "thingsLearned": "I participated on two game jams on two consecutive weekends. From this project I learned a lot about scope and time management, since I wanted to make game that was memorable. I focused on audio design to make it a fun and short experience.",
-    "approach": "I started by scoping my time and designing the core experience. I went with a smaller experience so that it could be the most polished possible within the 3 days that I had. I made all the audio with my mouth, which was a fun challenge, while also making all the mechanics work with minimal bugs.",
+    "thingsLearned": "I participated on two game jams on two consecutive weekends. From this project I learned a lot about scope and time management, since I wanted to make a game that was memorable. I focused on how audio design directly drives game feel, turning a short loop into a highly responsive and funny experience.",
+    "approach": "I started by scoping my time and designing the core experience. I went with a smaller gameplay loop so that it could be the most polished possible within the 3 days that I had. I made all the audio with my mouth, which was a fun challenge, while also making all the mechanics work with minimal bugs.",
     "image": "images/useless-vending-machine.png",
     "link": "https://itch.io/jam/bigmode-game-jam-2026/rate/4270718",
     "linkText": "Play on itch.io",
-    "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Audio Design", "Solo project"]
+    "tags": ["Unity", "Desktop", "Game Development", "Game Design", "Game Jam", "Audio Design", "Solo project"]
   },
   {
     "id": "project-03",
-    "title": "Neil-A's Big Halloween",
+    "title": "Neil-A's Big Halloween - Global Game Jam 2026",
     "description": "A Unity story driven game made in a team of 7 for the Global Game Jam 2026.",
-    "thingsLearned": "Working with a team that I just met and making a game in 3 days. We used Yarn, a dialogue system for Unity, which was a great fit for the game, since we had two writers, ending up with a lot of dialogue for a short game.",
-    "approach": "We started brainstorming around the theme of Mask, while also keeping our team's skills in mind. We ended up with a more narrative experience with a lot of dialogue, so after the main mechanics were done on the second day, we spent the rest of the time adding the dialogue to the game and polishing it.",
+    "thingsLearned": "Working with a team that I just met and making a game in 3 days. We used Yarn, a dialogue system for Unity, which taught me how to set up an efficient workflow that allowed us to import massive amounts of narrative content without breaking our core scripts.",
+    "approach": "We started brainstorming around the theme of Mask, while also keeping our team's skills in mind. We ended up with a more narrative experience with a lot of dialogue, so after the main mechanics were done on the second day, we spent the rest of the time adding the dialogue and polishing the game.",
     "image": "images/neil-a.png",
     "link": "https://globalgamejam.org/games/2026/neil-big-halloween-9",
     "linkText": "View on the Global Game Jam page",
-    "tags": ["Unity", "Game Development", "Game Design", "Game Jam", "Story Driven", "Team Project"]
+    "tags": ["Unity", "Desktop", "Game Development", "Game Design", "Game Jam", "Story Driven", "Team Project"]
   },
   {
     "id": "project-04",
-    "title": "A Disadvantageous Adventure",
+    "title": "A Disadvantageous Adventure - Solo project",
     "description": "An incremental game made in Unity, solo project.",
-    "thingsLearned": "Scoping for personal projects while also studying full time. Make games work for mobile devices with save states.",
-    "approach": "I started with the need to test developing a mobile game, and when I scoped the project for 2 weeks I decided on this small experience with small interactions. Having the Dice roll in a more natural way was a big focus, since the upgrades need to work correctly with it.",
+    "thingsLearned": "Scoping for personal projects. Make a mobile game from scratch in Unity using touch and mouse inputs to interact with the game through phone and computer respectively.",
+    "approach": "While ideating for the Pocket Flock project I wanted to make a proof-of-concept to test how developing a mobile game would work. I scoped the project for 2 weeks, making a short experience with simple interactions. I focused on making the dice rolling feel natural, while balancing the incremental math of the upgrades to keep the progression satisfying.",
     "image": "images/ADA.png",
     "link": "https://yutzune.itch.io/a-disadvantageous-adventure",
     "linkText": "Play on itch.io",
-    "tags": ["Unity", "Game Development", "Game Design", "Incremental", "Solo project"]
+    "tags": ["Unity", "Mobile", "Game Development", "Game Design", "Incremental", "Solo project"]
   },
   {
     "id": "project-06",
-    "title": "Meownshine Express Co.",
+    "title": "Meownshine Express Co. - Game Design course project",
     "description": "A simulation game made in Unity with a team of 6.",
     "thingsLearned": "This was the first game I made, so I learned the process of designing a game, bringing it to life in Unity and working with a team.",
-    "approach": "Since this was for a class, we brainstormed ideas and came up with the concept and iterated on it. A prototype was made to test some mechanics and then full production for a final presentation. Learning Unity between Youtube videos, documentation and the help of AI was a great way to get this 3 month project done in an efficient way.",
+    "approach": "Since this was for a class, we brainstormed ideas and came up with the concept and iterated on it. A prototype was made to test some mechanics and then full production for a final presentation. Learning Unity between Youtube videos, documentation, and using AI as a guide was a great way to get this 2-month project done in an efficient way.",
     "image": "images/meownshine-express.png",
     "link": "https://yutzune.itch.io/meownshine-express-co",
     "linkText": "Play on itch.io",
-    "tags": ["Unity", "Game Development", "Game Design", "Simulation", "Team Project"]
+    "tags": ["Unity", "Desktop", "Game Development", "Game Design", "Simulation", "Team Project"]
   },
   {
     "id": "project-05",
-    "title": "Final Stand",
-    "description": "A Blackjack versus AI game made in Unreal, solo project for a course.",
-    "thingsLearned": "Implementing C++ in Unreal. UI and Blueprint development. Adding animations with simple timelines to make actions feel more engaging. Creating a simple AI for the opponent.",
-    "approach": "This game was made in 3 weeks for a course, in which I had to scope and decide which features to focus on. I focused more on the C++ logic to better understand how it works together in Blueprints.",
+    "title": "Final Stand - Unreal Engine course project",
+    "description": "A Blackjack versus AI game made in Unreal, solo project for an Unreal Engine course.",
+    "thingsLearned": "Learning how to mix C++ and Blueprints in Unreal Engine. I got a lot of practical experience setting up UI layouts, using simple timelines to make card animations feel more satisfying, and building a basic state machine to drive the opponent's AI.",
+    "approach": "This game was made in 3 weeks for a course, in which I had to scope and decide which features to develop. I focused heavily on the C++ side to better understand how to pass information over to Blueprints, letting C++ handle the backend rules of the card game while Blueprints managed the UI and visual feedback.",
     "image": "images/final-stand.png",
     "link": "https://github.com/FaZorrilla-ca/FinalStand",
     "linkText": "View the GitHub repository",
-    "tags": ["Unreal", "Game Development", "Game Design", "Solo project"]
+    "tags": ["Unreal", "Desktop", "Game Development", "Game Design", "Solo project"]
   }
 ]
