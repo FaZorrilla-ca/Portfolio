@@ -1,21 +1,31 @@
-/* ============================================
-   COLLECTIV PORTFOLIO — BASE STYLESHEET
-   ============================================ */
-
+/* FONT IMPORTS
+Open Sans
+Playfair
+Anton
+Merriweather
+Libre Baskerville
+EB Garamond - DM Sans
+*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300..900;1,300..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Neue+Haas+Grotesk+Display+Pro:wght@400;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400;500&display=swap');
 
 /* ---- CSS Variables ---- */
 :root {
   --color-bg: #ffffff;
-  --color-text: #1a1a1a;
-  --color-text-muted: #888888;
-  --color-accent: #1a47c8;       /* Blue for links like "Tickets", "See more" */
+  --color-text: #000000;
+  --color-text-muted: #000000;
+  --color-accent: #1a47c8; 
   --color-border: #e0e0e0;
   --color-hover: #f5f5f5;
 
-  --font-display: 'EB Garamond', 'Libre Baskerville', Georgia, serif;
-  --font-body: 'DM Sans', 'Helvetica Neue', sans-serif;
+  
+  --font-heading: 'Anton', sans-serif;
+  --font-body: 'Playfair', Georgia, serif;
+  --font-tag: 'DM Sans', 'Helvetica Neue', sans-serif;
 
   --nav-width: 120px;
   --nav-padding: 30px;
@@ -40,7 +50,7 @@ body {
   background: var(--color-bg);
   color: var(--color-text);
   font-family: var(--font-body);
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.6;
   min-height: 100vh;
 }
@@ -55,9 +65,7 @@ a {
   text-decoration: none;
 }
 
-/* ============================================
-   LAYOUT — DESKTOP (left sidebar nav)
-   ============================================ */
+/* ---- LAYOUT — DESKTOP (left sidebar nav) ---- */
 
 .site-wrapper {
   display: flex;
@@ -79,7 +87,7 @@ a {
 }
 
 .sidebar .logo {
-  font-family: var(--font-display);
+  font-family: var(--font-heading);
   font-size: 0.95rem;
   font-weight: 700;
   letter-spacing: -0.01em;
@@ -136,9 +144,7 @@ a {
   max-width: 1200px;
 }
 
-/* ============================================
-   HOME PAGE — PROJECTS
-   ============================================ */
+  /* ---- HOME PAGE — PROJECTS ---- */
 
 .page-label {
   font-family: var(--font-body);
@@ -150,9 +156,9 @@ a {
 }
 
 .page-headline {
-  font-family: var(--font-display);
-  font-size: clamp(1.4rem, 3vw, 1.8rem);
-  font-weight: 800;
+  font-family: var(--font-heading);
+  font-size: clamp(2rem, 3vw, 2.8rem);
+  font-weight: 400;
   line-height: 1.25;
   letter-spacing: -0.02em;
   margin-bottom: 36px;
@@ -194,9 +200,9 @@ a {
 }
 
 .project-title {
-  font-family: var(--font-display);
+  font-family: var(--font-heading);
   font-size: 1.6rem;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: -0.02em;
   margin-bottom: 8px;
 }
@@ -217,6 +223,7 @@ a {
 }
 
 .project-tag {
+  font-family: var(--font-tag);
   font-size: 0.7rem;
   font-weight: 400;
   letter-spacing: 0.05em;
@@ -226,7 +233,7 @@ a {
   color: var(--color-text-muted);
 }
 
-/* Tag colorsAny tag without a rule keeps the default grey. */
+/* ---- Tag colors ---- */
 /* Core Engine Tags (Solid Backgrounds) */
 .tag-unity            { color: #fff; background: #222; border-color: #222; }
 .tag-unreal           { color: #fff; background: #0e1128; border-color: #0e1128; }
@@ -260,6 +267,7 @@ a {
 }
 
 .project-detail-block h4 {
+  font-family: var(--font-heading);
   font-size: 0.7rem;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -269,7 +277,7 @@ a {
 }
 
 .project-detail-block p {
-  font-size: 0.88rem;
+  font-size: 1rem;
   line-height: 1.7;
   color: var(--color-text);
 }
@@ -292,9 +300,7 @@ a {
   content: '→';
 }
 
-/* ============================================
-   SECTION HEADER (with "See more")
-   ============================================ */
+/* ---- SECTION HEADER (with "See more") ---- */
 
 .section-header {
   display: flex;
@@ -319,9 +325,7 @@ a {
   opacity: 0.7;
 }
 
-/* ============================================
-   ABOUT & RESUME — MARKDOWN PAGES
-   ============================================ */
+/* ---- ABOUT & RESUME — MARKDOWN PAGES ---- */
 
 .markdown-content {
   max-width: 640px;
@@ -331,7 +335,7 @@ a {
 }
 
 .markdown-content h1 {
-  font-family: var(--font-display);
+  font-family: var(--font-heading);
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 400;
   letter-spacing: -0.02em;
@@ -340,7 +344,7 @@ a {
 }
 
 .markdown-content h2 {
-  font-family: var(--font-display);
+  font-family: var(--font-heading);
   font-size: 1.4rem;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -351,10 +355,27 @@ a {
 }
 
 .markdown-content h3 {
+  font-family: var(--font-heading);
   font-size: 1.15rem;
   font-weight: 500;
   margin-top: 28px;
   margin-bottom: 4px;
+}
+
+.markdown-content h4,
+.markdown-content h5 {
+  font-family: var(--font-heading);
+  font-weight: 500;
+  margin-top: 24px;
+  margin-bottom: 4px;
+}
+
+.markdown-content h4 {
+  font-size: 1rem;
+}
+
+.markdown-content h5 {
+  font-size: 0.95rem;
 }
 
 .markdown-content p {
@@ -403,9 +424,7 @@ a {
   }
 }
 
-/* ============================================
-   LOADING STATE
-   ============================================ */
+/* ---- LOADING STATE ---- */
 
 .loading {
   color: var(--color-text-muted);
@@ -413,18 +432,14 @@ a {
   padding: 40px 0;
 }
 
-/* ============================================
-   MOBILE NAV (top bar)
-   Only visible on mobile
-   ============================================ */
+/* ---- MOBILE NAV (top bar) ---- */
+/* Only visible on mobile */
 
 .mobile-nav {
   display: none;
 }
 
-/* ============================================
-   RESPONSIVE — MOBILE (≤ 799px)
-   ============================================ */
+/* ---- RESPONSIVE — MOBILE (≤ 799px) ---- */
 
 @media (max-width: 799px) {
   /* Hide desktop sidebar */
@@ -446,7 +461,7 @@ a {
   }
 
   .mobile-nav .logo {
-    font-family: var(--font-display);
+    font-family: var(--font-heading);
     font-size: 0.95rem;
     font-weight: 700;
     letter-spacing: -0.01em;
@@ -503,9 +518,7 @@ a {
   }
 }
 
-/* ============================================
-   PRINT
-   ============================================ */
+/* ---- PRINT ---- */
 
 @media print {
   .sidebar,

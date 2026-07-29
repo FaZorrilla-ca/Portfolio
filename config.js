@@ -9,7 +9,7 @@ const SITE_CONFIG = {
   shortBio: 'I\'m a game developer and game designer currently studying at the Centre for Digital Media, based in Vancouver, Canada. I studied Operations Research and IT Engineering at Universidad Católica de Chile',
 
   // Homepage tagline (the large text under "Projects" heading)
-  headline: 'Game Development and Design Portfolio',
+  headline: 'Game Development and Design',
 
   // Navigation labels (and their hrefs)
   nav: [

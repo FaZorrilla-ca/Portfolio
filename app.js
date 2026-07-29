@@ -19,7 +19,7 @@ function applyConfig() {
   if (typeof SITE_CONFIG === 'undefined') return;
 
   // Set page title
-  document.title = SITE_CONFIG.name + ' — Portfolio';
+  document.title = SITE_CONFIG.name + ' - Portfolio';
 
   // Set logo text (all .logo elements)
   document.querySelectorAll('.logo').forEach(el => {
