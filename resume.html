@@ -8,43 +8,42 @@
 </head>
 <body>
 
-  <!-- MOBILE NAV -->
-  <header class="mobile-nav">
-    <a href="index.html" class="logo">Francisco Zorrilla</a>
-    <nav>
-      <a href="index.html" id="mobile-nav-projects">Projects</a>
-      <a href="about.html" id="mobile-nav-about">About</a>
-      <a href="resume.html" class="active" id="mobile-nav-resume">Resume</a>
-    </nav>
+  <header class="site-header">
+    <div class="site-header-inner" id="site-header-inner"></div>
   </header>
 
   <div class="site-wrapper">
-
-    <!-- SIDEBAR NAV -->
-    <aside class="sidebar">
-      <a href="index.html" class="logo">Francisco Zorrilla</a>
-      <nav>
-        <a href="index.html">Projects</a>
-        <a href="about.html">About</a>
-        <a href="resume.html" class="active">Resume</a>
-      </nav>
-    </aside>
-
-    <!-- MAIN CONTENT — no top-bar description here -->
-    <div class="main-content">
+    <main class="main-content">
       <div class="page-body">
-        <div id="resume-content" class="markdown-content">
-          <p class="loading">Loading…</p>
+        <div id="resume-pdf-source" class="resume-pdf-source">
+          <div class="resume-title-row">
+            <h1 class="resume-page-title">Resume</h1>
+            <button
+              type="button"
+              id="resume-pdf-download"
+              class="resume-pdf-btn"
+              aria-label="Download resume as PDF"
+            >
+              <img src="images/pdf-icon.png" alt="" width="28" height="28" />
+            </button>
+          </div>
+          <div id="resume-content" class="markdown-content">
+            <p class="loading">Loading…</p>
+          </div>
         </div>
       </div>
-    </div>
-
+    </main>
   </div>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="config.js"></script>
   <script src="app.js"></script>
   <script>
-    renderMarkdownPage('resume-content', 'pages/resume.md');
+    (async () => {
+      const mdPath = typeof SITE_CONFIG !== 'undefined' ? SITE_CONFIG.resumeMarkdown : 'pages/resume.md';
+      await renderMarkdownPage('resume-content', mdPath);
+      setupResumePdfDownload();
+    })();
   </script>
 </body>
 </html>

@@ -1,4 +1,3 @@
-# Resume
 # FRANCISCO ZORRILLA
 
 ### **Software Engineer & Game Developer**
@@ -10,7 +9,7 @@ fazorrilla98@gmail.com | [LinkedIn](https://www.linkedin.com/in/fazorrilla) | [P
 Software engineer and Master of Digital Media student with a strong background in Systems Engineering and Information Technology. Combines over 10 years of experience designing custom data-driven automation tools with focused expertise in modern gameplay programming. A collaborative team member who thrives in multidisciplinary environments, with a proven ability to lead small teams and quickly adapt to new programming environments and unknown technical challenges.
 
 ## CORE SKILLS
-Unity Engine || C# || Node.js || JavaScript || C++ || Unreal Engine || Blueprints || Java (Beginner) || UI/UX Implementation || Git/GitHub Source Control || Agile / Kanban || Multidisciplinary Collaboration || Team Leadership
+Unity Engine || C# || Node.js || JavaScript || C++ || Unreal Engine || Blueprints || Mobile Game Design || UI/UX Implementation || Git/GitHub Source Control || Agile / Kanban || Multidisciplinary Collaboration || Team Leadership
 
 ## EXPERIENCE
 
@@ -59,4 +58,4 @@ Project Evaluation, Data Analysis and technical adaptability proven by rapidly l
 ### **Diploma in Understanding Artificial Intelligence | Universidad Adolfo Ibañez | 2025**
 
 ## ADDITIONAL SKILLS
-Python || SQL || Scriptable Objects || Object-Oriented Programming (OOP) || Gameplay Scripting || Debugging & Optimization || Mobile Game Design || React / React Native || Ruby on Rails || R || HTML/CSS || Windows || Linux || MacOS || Microsoft Excel (Advanced Data Analysis) || Google Drive Suite || Canva || Adaptability || Comfortable with the Unknown || Spanish (Native) || English (Advanced, TOEFL: 112) || **Interests**: Writing reviews on games that I’ve played, with over 450 written to this date on my Instagram page.
+Python || SQL || Scriptable Objects || Object-Oriented Programming (OOP) || Gameplay Scripting || Debugging & Optimization || Gameplay & Systems Design || Technical Documentation || React / React Native || Ruby on Rails || R || HTML/CSS || Java (Beginner) || Microsoft Excel (Advanced Data Analysis) || Windows || Linux || MacOS || Google Drive Suite || Canva || Adaptability || Comfortable with the Unknown || Spanish (Native) || English (Advanced, TOEFL: 112) || **Interests**: Writing reviews on games that I’ve played, with over 450 written to this date on my Instagram page.
