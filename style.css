@@ -852,6 +852,8 @@ a {
   }
 
   .site-nav {
+    justify-content: flex-end;
+    justify-self:end;
     gap: 10px 16px;
   }
 
