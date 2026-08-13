@@ -466,7 +466,7 @@ async function renderMarkdownPage(containerId, mdPath) {
 
 function setupResumePdfDownload() {
   const btn = document.getElementById('resume-pdf-download');
-  const source = document.getElementById('resume-pdf-source');
+  const source = document.getElementById('resume-content');
   if (!btn || !source) return;
 
   btn.addEventListener('click', async () => {
@@ -484,12 +484,19 @@ function setupResumePdfDownload() {
     try {
       await html2pdf()
         .set({
-          margin: [0.45, 0.45, 0.45, 0.45],
+          margin: [0.5, 0.5, 0.5, 0.5],
           filename: `${baseName}_Resume.pdf`,
           image: { type: 'jpeg', quality: 0.95 },
-          html2canvas: { scale: 2, useCORS: true },
+          html2canvas: {
+            scale: 2,
+            useCORS: true,
+            letterRendering: true,
+          },
           jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' },
-          pagebreak: { mode: ['css', 'legacy'] },
+          pagebreak: {
+            mode: ['avoid-all', 'css', 'legacy'],
+            avoid: ['h2', 'h3', 'p', 'li', 'ul', 'ol'],
+          },
         })
         .from(source)
         .save();

@@ -705,6 +705,30 @@ a {
   max-width: 1200px;
 }
 
+.resume-pdf-source h2,
+.resume-pdf-source h3,
+.resume-pdf-source p,
+.resume-pdf-source ul,
+.resume-pdf-source ol,
+.resume-pdf-source li,
+#resume-content h2,
+#resume-content h3,
+#resume-content p,
+#resume-content ul,
+#resume-content ol,
+#resume-content li {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+.resume-pdf-source h2,
+.resume-pdf-source h3,
+#resume-content h2,
+#resume-content h3 {
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
 .resume-title-row {
   display: flex;
   align-items: center;
